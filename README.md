@@ -1,4 +1,4 @@
-# filemanager-kang-cahya
+# Simple-filemanager
 Filemanager with :
 - PHP
 - Javascript
