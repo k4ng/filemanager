@@ -1,2 +1,5 @@
 # filemanager-kang-cahya
-Filemanager with php. Simple
+Filemanager with :
+- PHP
+- Javascript
+- Bootstrap
