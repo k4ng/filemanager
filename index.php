@@ -7,6 +7,7 @@
 
 	Liscense: MIT
 	
+	Modify By : Kang Cahya
 	********************************/
 
 	setlocale(LC_ALL,'en_US.UTF-8');
