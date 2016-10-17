@@ -22,5 +22,5 @@ Just copy index.php to a folder on your webserver.
 ## Screenshot
 ![Demo img](http://1.bp.blogspot.com/-hz4ViAmdqdw/VWsM2N33t_I/AAAAAAAAC2U/kkaFvv-safU/s320/filemanager.jpg)
 
-### Demo : http://kang-cahya.dokumentasi.my.id/filemanager/
+### Demo : http://dokumentasi.my.id/kang-cahya/filemanager/
 ##### Blog : http://www.kang-cahya.com/2015/05/program-filemanager-dengan-php-tanpa-database.html
